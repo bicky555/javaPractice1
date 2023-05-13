@@ -39,6 +39,7 @@ public class Inheritance {
         Cylinder c=new Cylinder();
         c.radius=7;
         c.height=10;
+        //inheritance
 
         System.out.println("Volume "+c.volume());
         System.out.println("Area "+c.area());
