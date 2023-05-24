@@ -1,7 +1,7 @@
 package AbstractClass;
 
 
-//abstract class // we cannot create object of abstract class // we can just create the refernce
+//abstract class // we cannot create object of abstract class // we can just create the reference
 //concrete class
 
 //abstract method don't have the body

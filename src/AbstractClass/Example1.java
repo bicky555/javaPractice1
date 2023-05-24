@@ -34,6 +34,7 @@ class Rectangle extends Shape{
 }
 public class Example1 {
     public static void main(String[] args) {
+
         Rectangle r=new Rectangle();
         r.length=10;
         r.breath=5;
